@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: go-web-app
-        image: saijathin/devopsified
+        image: saijathin/mywebsite
         ports:
         - containerPort: 8080
